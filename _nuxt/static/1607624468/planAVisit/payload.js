@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/planAVisit", {data:[{}],fetch:[],mutations:void 0});
